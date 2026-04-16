@@ -1,4 +1,4 @@
-# 🎵 Hargai Aku - Aesthetic Lyrics Player
+# 🎵 Hargai Aku - Armada
 
 [![GitHub stars](https://img.shields.io/github/stars/dimsyyy/HargaiAku?style=for-the-badge)](https://github.com/dimsyyy/HargaiAku/stargazers)
 [![GitHub license](https://img.shields.io/github/license/dimsyyy/HargaiAku?style=for-the-badge)](https://github.com/dimsyyy/HargaiAku/blob/main/LICENSE)
@@ -19,7 +19,7 @@ Project web sederhana untuk memutar lagu **"Hargai Aku"** dengan tampilan lirik 
 
 ---
 
-## 🚀 Demo Tampilan
+## 🚀 Demo
 
 > [!TIP]
 > **[KLIK DI SINI UNTUK MELIHAT LIVE DEMO](https://dimsyyy.github.io/HargaiAku/)** >
