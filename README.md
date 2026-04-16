@@ -22,7 +22,7 @@ Project web sederhana untuk memutar lagu **"Hargai Aku"** dengan tampilan lirik 
 ## 🚀 Demo Tampilan
 
 > [!TIP]
-> **[KLIK DI SINI UNTUK MELIHAT LIVE DEMO](https://dimsyyy.github.io/HargaiAku/)** > *(Pastikan kamu sudah mengaktifkan GitHub Pages di pengaturan repositori)*
+> **[KLIK DI SINI UNTUK MELIHAT LIVE DEMO](https://dimsyyy.github.io/HargaiAku/)** >
 
 ---
 
