@@ -15,3 +15,64 @@ body {
   pointer-events: none;
   /* opacity: 0.3; */
 }
+.button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button button{
+    background-color: transparent;
+    color: white;
+    font-size: 24px;
+    border: none;
+    padding: 10px 20px;
+}
+.button button i{
+    animation: pulse 1.5s infinite;
+
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    70% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#lyrics {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  font-size: medium;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.lyric-line {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  opacity: 0;
+  filter: blur(3px);
+  transition: opacity 0.5s ease, filter 0.5s ease;
+}
+
+.lyric-line.active {
+  opacity: 1;
+  filter: blur(0px);
+}
+
+.highlight {
+  color: #ff0000;
+  font-weight: bold;
+}
